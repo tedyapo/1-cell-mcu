@@ -685,7 +685,7 @@
 <part name="J3" library="1-cell-mcu" deviceset="HEADER_4P" device=""/>
 <part name="U$12" library="1-cell-mcu" deviceset="GND" device=""/>
 <part name="U$13" library="1-cell-mcu" deviceset="+3.3V" device=""/>
-<part name="C1" library="1-cell-mcu" deviceset="C_POL" device="" value="220m"/>
+<part name="C1" library="1-cell-mcu" deviceset="C_POL" device="" value="70m"/>
 <part name="C4" library="1-cell-mcu" deviceset="C" device="0805" value="100n"/>
 <part name="U$14" library="1-cell-mcu" deviceset="GND" device=""/>
 </parts>
